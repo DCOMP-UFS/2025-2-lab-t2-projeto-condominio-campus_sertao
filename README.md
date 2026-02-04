@@ -17,7 +17,7 @@ A infraestrutura atenderá os seguintes laboratórios, cujos detalhamentos técn
 * **Lab RUMENS** - [`RUMENS/README.md`](RUMENS/README.md)
 * **Lab COMAFS** - [`COMAFS/README.md`](COMAFS/README.md)
 * **Lab GEMS** - [`GEMS/README.md`](GEMS/README.md)
-* **Lab GEFiVe** - [`GEFiVe/README.md`](GEFiVe/README.md)
+* **Lab GEFiVe** - [`projeto GEFiVe/README.md`](GEFiVe/README.md)
 * **Lab GEPPETTO** - [`GEPPETTO/README.md`](GEPPETTO/README.md)
 
 ## Justificativa Técnico-Científica e Relevância
