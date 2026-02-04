@@ -14,11 +14,11 @@ Este projeto consolida a infraestrutura de redes e computação para 05 (cinco) 
 
 A infraestrutura atenderá os seguintes laboratórios, cujos detalhamentos técnicos individuais podem ser consultados em seus respectivos repositórios:
 
-* **Lab RUMENS** - [`RUMENS/README.md`](RUMENS/README.md)
-* **Lab COMAFS** - [`COMAFS/README.md`](COMAFS/README.md)
-* **Lab GEMS** - [`GEMS/README.md`](GEMS/README.md)
-* **Lab GEFiVe** - [`projeto GEFiVe/README.md`](GEFiVe/README.md)
-* **Lab GEPPETTO** - [`GEPPETTO/README.md`](GEPPETTO/README.md)
+* **Lab RUMENS** - [`Projeto RUMENS`](RUMENS/README.md)
+* **Lab COMAFS** - [`Projeto COMAFS`](COMAFS/README.md)
+* **Lab GEMS** - [`Projeto GEMS`](GEMS/README.md)
+* **Lab GEFiVe** - [`Projeto GEFiVe`](GEFiVe/README.md)
+* **Lab GEPPETTO** - [`Projeto GEPPETTO`](GEPPETTO/README.md)
 
 ## Justificativa Técnico-Científica e Relevância
 
