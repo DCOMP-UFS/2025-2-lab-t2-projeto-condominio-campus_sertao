@@ -15,7 +15,7 @@ Este projeto consolida a infraestrutura de redes e computação para 05 (cinco) 
 A infraestrutura atenderá os seguintes laboratórios, cujos detalhamentos técnicos individuais podem ser consultados em seus respectivos repositórios:
 
 * **Lab RUMENS** - [`Projeto RUMENS`](RUMENS/README.md)
-* **Lab COMAFS** - [`Projeto COMAFS`](COMAFS/README.md)
+* **Lab CMFS** - [`Projeto CMFS`](CMFS/README.md)
 * **Lab GEMS** - [`Projeto GEMS`](GEMS/README.md)
 * **Lab GEFiVe** - [`Projeto GEFiVe`](GEFiVe/README.md)
 * **Lab GEPPETTO** - [`Projeto GEPPETTO`](GEPPETTO/README.md)
@@ -83,13 +83,14 @@ Para garantir a execução e prestação de contas, ficam designados:
 * **Coordenador Geral:** Rafael Coelho
 * **Assistente de Compras/Atas:** Lucas Celestino
 * **Contador/Tesoureiro:** Mariana Souza Nunes
+* **Coordenador Auxiliar:** Lucas Maycon
 
 ## Termo de Compromisso de Compartilhamento
 
 Os líderes dos grupos abaixo assinados declaram concordância com o modelo de aquisição unificada (especialmente quanto ao uso compartilhado do Servidor e da Rede Wi-Fi), comprometendo-se a zelar pelo patrimônio distribuído em seus laboratórios.
 
 1. **Mariana Souza Nunes** (Líder Lab. 01 - RUMENS)
-2. **Lucas Maycon Oliveira Menezes** (Líder Lab. 02 - COMAFS)
+2. **Lucas Maycon Oliveira Menezes** (Líder Lab. 02 - CMFS)
 3. **João Paulo Menezes Machado** (Líder Lab. 03 - GEMS)
 4. **Rafael José Coelho Souza** (Líder Lab 04 - GEFiVe)
 5. **Lucas Conceicao Celestino** (Líder Lab. 05 - GEPPETTO)
