@@ -10,8 +10,10 @@ O objetivo central do projeto é integrar conhecimentos teóricos e práticos de
 O site tem como finalidade apresentar a identidade do grupo de pesquisa, pelo qual fiquei responsável, mostrando seus objetivos científicos, projetos em desenvolvimento e os resultados esperados de suas pesquisas, destacando sua atuação na conservação da biodiversidade do semiárido brasileiro. De modo geral, trata-se de uma importante ferramenta de divulgação dos trabalhos do grupo e importância na proteção da fauna. Tudo isso nos mostra como é necessário que um laboratório bem equipado e estruturado seja desenvoldido para o grupo de pesquisa de Conservação e Manejo da Fauna Silvestre.
 
 ## Documentos técnicos
-Topologia da Rede do Laboratório do grupo de pesquisa de Conservação e Manejo da Fauna Silvestre(CMFS)
-Imagem da Topologia.
+* `index.html`: Contém informações sobre meu grupo de pesquisa
+* `Dockerfile`: Arquivo de texto que possui as instruções necessária para construir a imagem do site do Laboratório CMFS
+* `Topologia.imn`: Arquivo que mostra a topologia de rede do Laboratório do grupo de pesquisa de Conservação e Manejo da Fauna Silvestre(CMFS)
+* `Topologia.jpg`: Imagem da Topologia
 
 ## Links do site de demonstração
 Link do site - http://52.22.178.136
